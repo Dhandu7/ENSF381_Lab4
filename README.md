@@ -11,8 +11,8 @@
 
 ### Exercise B
 
-![Exercise B final output](ExerciseB.gif)
+![Exercise B final output](Lab4/ExerciseB.gif)
 
 ### Exercise C
 
-![Exercise C final output](ExerciseC.gif)
+![Exercise C final output](Lab4/ExerciseC.gif)
